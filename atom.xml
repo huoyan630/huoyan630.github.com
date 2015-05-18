@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2015-05-15T00:13:50+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Yolanda Blog]]></title>
+  <link href="http://huoyan630.github.io/atom.xml" rel="self"/>
+  <link href="http://huoyan630.github.io/"/>
+  <updated>2015-05-18T12:46:25+08:00</updated>
+  <id>http://huoyan630.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[huoyan630]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,10 +15,16 @@
   
   <entry>
     <title type="html"><![CDATA[Title]]></title>
-    <link href="http://yoursite.com/blog/2015/05/15/title/"/>
-    <updated>2015-05-15T01:14:44+08:00</updated>
-    <id>http://yoursite.com/blog/2015/05/15/title</id>
-    <content type="html"><![CDATA[
+    <link href="http://huoyan630.github.io/blog/2015/05/15/title/"/>
+    <updated>2015-05-15T00:00:00+08:00</updated>
+    <id>http://huoyan630.github.io/blog/2015/05/15/title</id>
+    <content type="html"><![CDATA[<p>﻿&mdash;
+layout: post
+title: &ldquo;我的第一篇博客&rdquo;
+date: 2015-05-15 01:14:44 +0800
+comments: true</p>
+
+<h2>categories: Octopress</h2>
 ]]></content>
   </entry>
   
