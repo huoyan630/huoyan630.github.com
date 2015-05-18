@@ -4,10 +4,10 @@
   <title><![CDATA[Yolanda Blog]]></title>
   <link href="http://huoyan630.github.io/atom.xml" rel="self"/>
   <link href="http://huoyan630.github.io/"/>
-  <updated>2015-05-18T12:46:25+08:00</updated>
+  <updated>2015-05-18T14:00:58+08:00</updated>
   <id>http://huoyan630.github.io/</id>
   <author>
-    <name><![CDATA[huoyan630]]></name>
+    <name><![CDATA[张小面]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -20,11 +20,11 @@
     <id>http://huoyan630.github.io/blog/2015/05/15/title</id>
     <content type="html"><![CDATA[<p>﻿&mdash;
 layout: post
-title: &ldquo;我的第一篇博客&rdquo;
-date: 2015-05-15 01:14:44 +0800
-comments: true</p>
-
-<h2>categories: Octopress</h2>
+title: &ldquo;【笛子】深海少女&rdquo;
+date: 2015-05-18 01:14:44
+comments: true
+categories: Octopress
+&mdash;&lt;!– more –></p>
 ]]></content>
   </entry>
   
